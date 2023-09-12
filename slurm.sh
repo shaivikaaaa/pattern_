@@ -1,5 +1,3 @@
-
-
 #!/bin/bash
 #SBATCH --job-name=shaivika_CIFAR
 #SBATCH --mail-type=All
